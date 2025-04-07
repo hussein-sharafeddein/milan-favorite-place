@@ -32,3 +32,7 @@ h2 {
   color: #00083d;
   margin: 1rem;
 }
+img {
+  max-width: 1000px;
+  margin: 1rem;
+}
