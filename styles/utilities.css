@@ -3,14 +3,17 @@
   margin: 0;
   padding: 0;
 }
+
 body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
   font-family: "Times New Roman", Times, serif;
   text-align: center;
 }
 a {
   color: rgb(255, 0, 179);
   transition: 0.3s;
-  margin: 0.5rem;
 }
 
 a:hover {
