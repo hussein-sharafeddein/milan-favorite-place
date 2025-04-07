@@ -31,3 +31,14 @@ img {
   max-width: 1000px;
   margin: 1rem;
 }
+
+footer {
+  background-color: #f2994a;
+  padding: 1rem;
+  color: #ffffff;
+  margin-top: 2rem;
+}
+
+footer:hover {
+  background-color: #d9833d;
+}
