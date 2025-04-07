@@ -1,11 +1,11 @@
 header {
-  background-color: #ffffff;
+  background-color: #f2994a;
   padding: 1rem;
   margin-bottom: 1.5rem;
 }
 
 header:hover {
-  background-color: #fb0909;
+  background-color: #d9833d;
 }
 
 h1 {
