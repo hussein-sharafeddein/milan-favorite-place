@@ -25,3 +25,13 @@ ul {
   list-style-type: square;
   margin-left: 2rem;
 }
+
+footer {
+  background-color: #27ae60;
+  padding: 1rem;
+  color: white;
+}
+
+footer:hover {
+  background-color: #219653;
+}
