@@ -1,0 +1,9 @@
+/* CSS Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #6fcf97;
+  padding: 1rem;
+}
