@@ -25,3 +25,10 @@ h1 {
   margin: 1.5rem;
   color: #000000;
 }
+
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: 1.8rem;
+  color: #00083d;
+  margin: 1rem;
+}
