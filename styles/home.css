@@ -9,7 +9,19 @@ body {
 }
 
 header {
-  background-color: #000000;
+  background-color: #ffffff;
   padding: 1rem;
   margin-bottom: 1.5rem;
+}
+
+header:hover {
+  background-color: #fb0909;
+}
+
+h1 {
+  font-family: "Bebas Neue", Oswald, sans-serif;
+  font-size: 6rem;
+  font-weight: bold;
+  margin: 1.5rem;
+  color: #000000;
 }
